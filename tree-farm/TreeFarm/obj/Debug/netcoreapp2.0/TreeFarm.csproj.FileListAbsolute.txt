@@ -1,0 +1,10 @@
+/Users/knorris/workspace/csharp/exercises/tree-farm/TreeFarm/bin/Debug/netcoreapp2.0/TreeFarm.deps.json
+/Users/knorris/workspace/csharp/exercises/tree-farm/TreeFarm/bin/Debug/netcoreapp2.0/TreeFarm.runtimeconfig.json
+/Users/knorris/workspace/csharp/exercises/tree-farm/TreeFarm/bin/Debug/netcoreapp2.0/TreeFarm.runtimeconfig.dev.json
+/Users/knorris/workspace/csharp/exercises/tree-farm/TreeFarm/bin/Debug/netcoreapp2.0/TreeFarm.dll
+/Users/knorris/workspace/csharp/exercises/tree-farm/TreeFarm/bin/Debug/netcoreapp2.0/TreeFarm.pdb
+/Users/knorris/workspace/csharp/exercises/tree-farm/TreeFarm/obj/Debug/netcoreapp2.0/TreeFarm.csproj.CoreCompileInputs.cache
+/Users/knorris/workspace/csharp/exercises/tree-farm/TreeFarm/obj/Debug/netcoreapp2.0/TreeFarm.AssemblyInfoInputs.cache
+/Users/knorris/workspace/csharp/exercises/tree-farm/TreeFarm/obj/Debug/netcoreapp2.0/TreeFarm.AssemblyInfo.cs
+/Users/knorris/workspace/csharp/exercises/tree-farm/TreeFarm/obj/Debug/netcoreapp2.0/TreeFarm.dll
+/Users/knorris/workspace/csharp/exercises/tree-farm/TreeFarm/obj/Debug/netcoreapp2.0/TreeFarm.pdb
