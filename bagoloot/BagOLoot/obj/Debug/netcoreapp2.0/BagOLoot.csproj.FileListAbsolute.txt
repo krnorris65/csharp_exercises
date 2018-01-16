@@ -1,0 +1,10 @@
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot/bin/Debug/netcoreapp2.0/BagOLoot.deps.json
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot/bin/Debug/netcoreapp2.0/BagOLoot.runtimeconfig.json
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot/bin/Debug/netcoreapp2.0/BagOLoot.runtimeconfig.dev.json
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot/bin/Debug/netcoreapp2.0/BagOLoot.dll
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot/bin/Debug/netcoreapp2.0/BagOLoot.pdb
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot/obj/Debug/netcoreapp2.0/BagOLoot.csproj.CoreCompileInputs.cache
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot/obj/Debug/netcoreapp2.0/BagOLoot.AssemblyInfoInputs.cache
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot/obj/Debug/netcoreapp2.0/BagOLoot.AssemblyInfo.cs
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot/obj/Debug/netcoreapp2.0/BagOLoot.dll
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot/obj/Debug/netcoreapp2.0/BagOLoot.pdb

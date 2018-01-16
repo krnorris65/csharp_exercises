@@ -1,0 +1,15 @@
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/bin/Debug/netcoreapp2.0/BagOLoot.Tests.deps.json
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/bin/Debug/netcoreapp2.0/BagOLoot.Tests.runtimeconfig.json
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/bin/Debug/netcoreapp2.0/BagOLoot.Tests.runtimeconfig.dev.json
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/bin/Debug/netcoreapp2.0/BagOLoot.Tests.dll
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/bin/Debug/netcoreapp2.0/BagOLoot.Tests.pdb
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/bin/Debug/netcoreapp2.0/BagOLoot.dll
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/bin/Debug/netcoreapp2.0/BagOLoot.pdb
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/obj/Debug/netcoreapp2.0/BagOLoot.Tests.csproj.CoreCompileInputs.cache
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/obj/Debug/netcoreapp2.0/BagOLoot.Tests.AssemblyInfoInputs.cache
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/obj/Debug/netcoreapp2.0/BagOLoot.Tests.AssemblyInfo.cs
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/obj/Debug/netcoreapp2.0/BagOLoot.Tests.dll
+/Users/knorris/workspace/csharp/exercises/bagoloot/BagOLoot.Tests/obj/Debug/netcoreapp2.0/BagOLoot.Tests.pdb
